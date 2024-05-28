@@ -1,4 +1,4 @@
-# Interview with Vadym Tselikin _(Senior .Net Developer)_
+# Interview
 
 
 ## C# - Implement GitHubService.GetUserRepositoriesAsync
@@ -44,8 +44,6 @@ You can join on User.Login = GitHubRepository.Owner
 [GitHubServiceTests]: ./Interview.Tests/GitHubServiceTests.cs
 [ProgramTests]: ./Interview.Tests/ProgramTests.cs
 [Program]: ./Interview/Program.cs
-
-
 
 
 
