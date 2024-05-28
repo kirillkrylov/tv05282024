@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview", "Interview\Interview.csproj", "{7D156F16-39FB-4E59-9B02-CFD7B029F2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview.Tests", "Interview.Tests\Interview.Tests.csproj", "{D1A612B3-466F-4752-B4B9-7E3FD541A12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D156F16-39FB-4E59-9B02-CFD7B029F2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D156F16-39FB-4E59-9B02-CFD7B029F2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D156F16-39FB-4E59-9B02-CFD7B029F2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D156F16-39FB-4E59-9B02-CFD7B029F2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A612B3-466F-4752-B4B9-7E3FD541A12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A612B3-466F-4752-B4B9-7E3FD541A12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A612B3-466F-4752-B4B9-7E3FD541A12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A612B3-466F-4752-B4B9-7E3FD541A12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
